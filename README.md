@@ -1,4 +1,4 @@
-# Word Frequency Analysis for "Alice in Wonderland"
+# Word Frequency Analysis for "Alice in the Wonderland" Novel
 
 This Python program extracts word frequencies from the text of "Alice in Wonderland" by Lewis Carroll, available on Project Gutenberg. The script performs web scraping, text processing, and generates a CSV file with word frequencies.
 
