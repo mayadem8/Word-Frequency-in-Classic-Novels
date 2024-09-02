@@ -10,7 +10,7 @@ This Python program extracts word frequencies from the text of "Alice in Wonderl
 
 ## Requirements
 
-To run this script, you need the following Python packages:
+To run this script, you need following Python packages:
 - `requests`
 - `beautifulsoup4`
 - `nltk`
